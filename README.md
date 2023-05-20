@@ -6,6 +6,6 @@ just for practice purpose
 tech use :
 
 HML 5
-Css 3 
+Vanilla Css 3 
 
 live : https://tofayel-stack.github.io/mifta-food-clone-onlyCSS-design/
